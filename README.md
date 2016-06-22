@@ -1,2 +1,2 @@
 # hello-world
-Test Repository
+This is a sample test repository for Github.
